@@ -13,29 +13,34 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv
 
 ### Total number of reviews:
 
-Vine Reviews:
+#### Total number of for each Vine Reviews (Y) & Non Vine-Reviews (N):
 
+![Total_groupby_vine](https://user-images.githubusercontent.com/88908758/145713510-e571be74-e396-4570-9caa-fa6079a4411b.PNG)
 
+#### Ttal number of reviews for both Vine and Non Vine program:
 
-Non Vine-Reviews:
-
+![Total_reviews](https://user-images.githubusercontent.com/88908758/145713531-90bdd4d2-5e60-4538-b352-aba6cf72d1c2.PNG)
 
 
 ### Total number of 5-star reviews:
 
-Vine Reviews:
+#### Total number of 5-star reviews for each Vine Review Non Vine-Reviews:
 
+![5star_reviews_groupby_vibe](https://user-images.githubusercontent.com/88908758/145713569-4e50d883-c045-4c6b-a0a7-77d998d0b767.PNG)
 
-Non Vine-Reviews:
+#### Total number of 5-star reviews:
 
+![Total_5star_reviews](https://user-images.githubusercontent.com/88908758/145713631-146e4536-0907-4c35-945f-94e153f004e2.PNG)
 
 ### Percentage of 5-star reviews:
 
-Vine Reviews:
+#### Percentage of 5-star Vine Reviews:
 
+![percentage_paid_5star_reviews](https://user-images.githubusercontent.com/88908758/145713671-e5f6fd93-6546-45c4-a5ee-656f9d600548.PNG)
 
-Non Vine-Reviews:
+#### Percentage of 5-star Non Vine-Reviews:
 
+![percentage_unpaid_5star_reviews](https://user-images.githubusercontent.com/88908758/145713677-b40e4b21-9d06-439c-9ebe-65fe39e06bb9.PNG)
 
 ## Summary:
 In summary, 34% of the reviews in the Vine program were 5-stars reviews whereas the percentage in the non-Vine reviews is only 48%. This describes a negative bias for reviews in the Vine program.
