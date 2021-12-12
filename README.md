@@ -15,31 +15,31 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv
 
 #### Total number of reviews for each type of reviews (Vine (Y) & Non Vine-Reviews (N)):
 
-![Total_groupby_vine](https://user-images.githubusercontent.com/88908758/145713824-b8c9c73b-b8e9-4d69-9868-175ebaf7ba6e.PNG)
+![Total_groupby_vine](https://user-images.githubusercontent.com/88908758/145714045-259e4406-085f-4506-bdca-5611bea3a41d.PNG)
 
 #### Total number of reviews:
 
-![Total_reviews](https://user-images.githubusercontent.com/88908758/145713853-4d2bad9d-d2b1-4f7e-92fb-0dd601b615ed.PNG)
+![Total_reviews](https://user-images.githubusercontent.com/88908758/145714056-204c535e-0922-4560-9998-17315890a8fb.PNG)
 
 ### Total number of 5-star reviews:
 
 #### Total number of 5-star reviews for both Vine & Non Vine-Reviews:
 
-![5star_reviews_groupby_vibe](https://user-images.githubusercontent.com/88908758/145713869-c4c534a7-2b17-4d38-b09e-553f4b18b63b.PNG)
+![5star_reviews_groupby_vibe](https://user-images.githubusercontent.com/88908758/145714084-14d9340d-d1f6-4ee6-b115-ba8b07e971fa.PNG)
 
 #### Total number of 5-star reviews:
 
-![Total_5star_reviews](https://user-images.githubusercontent.com/88908758/145713874-272fa0f0-3f3d-4e48-9a8b-c922df6a1979.PNG)
+![Total_5star_reviews](https://user-images.githubusercontent.com/88908758/145714066-a29a0cca-5976-4298-8e1b-2375ada62fe0.PNG)
 
 ### Percentage of 5-star reviews:
 
 #### Percentage of 5-star Vine Reviews:
 
-![percentage_paid_5star_reviews](https://user-images.githubusercontent.com/88908758/145713671-e5f6fd93-6546-45c4-a5ee-656f9d600548.PNG)
+![percentage_paid_5star_reviews](https://user-images.githubusercontent.com/88908758/145714095-5f6c51b9-9def-424c-aea4-a39019872313.PNG)
 
 #### Percentage of 5-star Non Vine-Reviews:
 
-![percentage_unpaid_5star_reviews](https://user-images.githubusercontent.com/88908758/145713677-b40e4b21-9d06-439c-9ebe-65fe39e06bb9.PNG)
+![percentage_unpaid_5star_reviews](https://user-images.githubusercontent.com/88908758/145714102-8e49bfb3-208e-4623-884e-e0eba4e8e8d1.PNG)
 
 ## Summary:
 In summary, 34% of the reviews in the Vine program were 5-stars reviews whereas the percentage in the non-Vine reviews is only 48%. This describes a negative bias for reviews in the Vine program.
