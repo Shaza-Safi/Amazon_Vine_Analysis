@@ -17,20 +17,19 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv
 
 ![Total_groupby_vine](https://user-images.githubusercontent.com/88908758/145713824-b8c9c73b-b8e9-4d69-9868-175ebaf7ba6e.PNG)
 
-#### Ttal number of reviews for both Vine and Non Vine program:
+#### Total number of reviews for both Vine and Non Vine program:
 
-![Total_reviews](https://user-images.githubusercontent.com/88908758/145713531-90bdd4d2-5e60-4538-b352-aba6cf72d1c2.PNG)
-
+![Total_reviews](https://user-images.githubusercontent.com/88908758/145713853-4d2bad9d-d2b1-4f7e-92fb-0dd601b615ed.PNG)
 
 ### Total number of 5-star reviews:
 
 #### Total number of 5-star reviews for each Vine Review Non Vine-Reviews:
 
-![5star_reviews_groupby_vibe](https://user-images.githubusercontent.com/88908758/145713569-4e50d883-c045-4c6b-a0a7-77d998d0b767.PNG)
+![5star_reviews_groupby_vibe](https://user-images.githubusercontent.com/88908758/145713869-c4c534a7-2b17-4d38-b09e-553f4b18b63b.PNG)
 
 #### Total number of 5-star reviews:
 
-![Total_5star_reviews](https://user-images.githubusercontent.com/88908758/145713631-146e4536-0907-4c35-945f-94e153f004e2.PNG)
+![Total_5star_reviews](https://user-images.githubusercontent.com/88908758/145713874-272fa0f0-3f3d-4e48-9a8b-c922df6a1979.PNG)
 
 ### Percentage of 5-star reviews:
 
