@@ -13,17 +13,17 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Toys_v1_00.tsv
 
 ### Total number of reviews:
 
-#### Total number of for each Vine Reviews (Y) & Non Vine-Reviews (N):
+#### Total number of reviews for each type of reviews (Vine (Y) & Non Vine-Reviews (N)):
 
 ![Total_groupby_vine](https://user-images.githubusercontent.com/88908758/145713824-b8c9c73b-b8e9-4d69-9868-175ebaf7ba6e.PNG)
 
-#### Total number of reviews for both Vine and Non Vine program:
+#### Total number of reviews:
 
 ![Total_reviews](https://user-images.githubusercontent.com/88908758/145713853-4d2bad9d-d2b1-4f7e-92fb-0dd601b615ed.PNG)
 
 ### Total number of 5-star reviews:
 
-#### Total number of 5-star reviews for each Vine Review Non Vine-Reviews:
+#### Total number of 5-star reviews for both Vine & Non Vine-Reviews:
 
 ![5star_reviews_groupby_vibe](https://user-images.githubusercontent.com/88908758/145713869-c4c534a7-2b17-4d38-b09e-553f4b18b63b.PNG)
 
